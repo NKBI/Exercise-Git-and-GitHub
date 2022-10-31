@@ -41,3 +41,5 @@ if (dictionary["G"] == 4) and (dictionary["D"] == 9) and (dictionary["A"] == 2):
         print("Correct #6")
 else:
     print("Error")
+    
+print('Hello, world!')
