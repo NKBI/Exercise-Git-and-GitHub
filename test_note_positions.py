@@ -43,3 +43,6 @@ else:
     print("Error")
     
 print('Hello, world!')
+
+print('Goodbye, world!')
+
